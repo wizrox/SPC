@@ -16,9 +16,9 @@ by recognizing it through facial features. In this project openCV /haar-cascade 
 
 - Autohr : CodeBasic (youtube Channel)
 
--Tutorial (youtube): https://www.youtube.com/playlist?list=PLeo1K3hjS3uvaRHZLl-jLovIjBP14QTXc
+- Tutorial (youtube): https://www.youtube.com/playlist?list=PLeo1K3hjS3uvaRHZLl-jLovIjBP14QTXc
 
--git : https://github.com/codebasics/py/tree/master/DataScience/CelebrityFaceRecognition
+- git : https://github.com/codebasics/py/tree/master/DataScience/CelebrityFaceRecognition
 
 ##### Disclaimer:
 
