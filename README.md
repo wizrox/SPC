@@ -7,20 +7,18 @@ by recognizing it through facial features. In this project openCV /haar-cascade 
 
 ### Technical tools used in the project:
 -Python
-    Anaconda
-    Jupyter notebook
-    PyCharm Community Edition for creating Flask server
-    Visual Sutdio for creating HTML/CSS/Javascript for UI
-    Nginx to process client/server architecture
-    AWS account
-
+-Anaconda
+-Jupyter notebook
+-PyCharm Community Edition for creating Flask server
+-Visual Sutdio for creating HTML/CSS/Javascript for UI
+ 
 #### Resources & knowledge-base:
 
 - Autohr : CodeBasic (youtube Channel)
 
-    Tutorial (youtube) : https://www.youtube.com/watch?v=rdfbcdP75KI&list=PLeo1K3hjS3uu7clOTtwsp94PcHbzqpAdg&index=1
+-Tutorial (youtube): https://www.youtube.com/playlist?list=PLeo1K3hjS3uvaRHZLl-jLovIjBP14QTXc
 
-    git : https://github.com/codebasics/py/tree/master/DataScience/BangloreHomePrices
+-git : https://github.com/codebasics/py/tree/master/DataScience/CelebrityFaceRecognition
 
 ##### Disclaimer:
 
